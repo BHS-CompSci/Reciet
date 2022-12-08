@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    margin: 0 auto;
+}
+
+#receipt {
+    background-color: #CCCCCC;
+    padding: 10px;
+    margin: 12px;
+    width: 450;
+}
+
+div {
+    background-color: red;
+    margin: 10px;
+        
+}
+table {
+    background-color: antiquewhite;
+    margin: 12px;
+}
+
+h1 {
+    background-color: cornsilk;
+    margin: 5px;
+}
+
+p {
+    background-color: cornsilk;
+    margin: 5px;
+}
