@@ -6,8 +6,8 @@ body {
 #receipt {
     background-color: #CCCCCC;
     padding: 10px;
-    margin: 12px;
-    width: 450;
+    margin: 12px auto 12px auto;
+    width: 450px;
 }
 
 div {
